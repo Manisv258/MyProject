@@ -1,0 +1,2 @@
+This is new file
+used for git repo
